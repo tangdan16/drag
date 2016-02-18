@@ -2,5 +2,5 @@
 
 
 function drag(id){
-	var str = "版本区";
+	var str = "暂存区";
 }
