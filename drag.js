@@ -2,5 +2,5 @@
 
 
 function drag(id){
-	var str = "暂存区";
+	var obj = document.getElementById(id);
 }
