@@ -8,4 +8,6 @@ function drag(id){
 	obj.onmousedown = function(){
 		var num = 0;
 	}
+
+	console.log('第n次提交了');
 }
