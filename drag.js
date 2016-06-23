@@ -10,4 +10,5 @@ function drag(id){
 	}
 
 	console.log('第n次提交了');
+	console.log('烦躁');
 }
