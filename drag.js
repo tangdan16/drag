@@ -13,6 +13,7 @@ function drag(id){
 		document.onmousemove = function(){
 			var num=22222222222;
 		}
+		console.log('已经很完善了！');
 	}
 
 	console.log('第n次提交了');
