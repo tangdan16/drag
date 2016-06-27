@@ -9,6 +9,9 @@ function drag(id){
 		var num = 0;
 		disX = ev.clienetX - disX;
 		disY = ev.clienetY - disY;
+		document.onmousemove = function(ev){
+			var num=111111111;
+		}
 	}
 
 	console.log('第n次提交了');
